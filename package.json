@@ -1,0 +1,9 @@
+{
+  "name": "braelyn-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An independent, motion-led portfolio for Braelyn Mitrovic.",
+  "scripts": { "build": "node scripts/build.mjs" },
+  "engines": { "node": ">=22" }
+}
